@@ -1,0 +1,2 @@
+# Secrets
+Implemented "Whisper" app.
